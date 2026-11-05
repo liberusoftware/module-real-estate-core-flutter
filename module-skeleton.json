@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-core-flutter",
+  "capabilityKey": "liberusoftware/real-estate-core",
+  "presentation": "mobile-flutter",
+  "package": "module_real_estate_core_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/real-estate/nextjs/core.md",
+  "presentationPlan": "projects/real-estate/flutter/core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
